@@ -24,3 +24,7 @@ https://github.com/wangzhiwubigdata/God-Of-BigData
 https://www.jianshu.com/p/ff30a6ad7a12
 http://hbasefly.com/2018/05/02/timeseries-database-7/?syfkfc=kcrbx2
 http://blog.fatedier.com/2016/08/05/detailed-in-influxdb-tsm-storage-engine-one/
+
+## system design
+https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/5.html
+https://github.com/donnemartin/system-design-primer
