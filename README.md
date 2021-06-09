@@ -27,4 +27,5 @@ http://blog.fatedier.com/2016/08/05/detailed-in-influxdb-tsm-storage-engine-one/
 
 ## system design
 https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/5.html
+
 https://github.com/donnemartin/system-design-primer
